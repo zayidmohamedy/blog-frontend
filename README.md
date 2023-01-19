@@ -1,3 +1,12 @@
+## Author :
+ **Mohamed Abdullahi Hassan** [zayidmohamedy](https://github.com/zayidmohamedy)
+ 
+## Design :
+![image](https://user-images.githubusercontent.com/65617964/213411168-0a1b0873-b794-4b1f-9320-e04d770a1a90.png)
+![image](https://user-images.githubusercontent.com/65617964/213411217-b9df2df7-9883-47f5-9ae5-56d164154b81.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,11 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-## Author :
- **Mohamed Abdullahi Hassan** [zayidmohamedy](https://github.com/zayidmohamedy)
- 
-## Design :
-![image](https://user-images.githubusercontent.com/65617964/213411168-0a1b0873-b794-4b1f-9320-e04d770a1a90.png)
-![image](https://user-images.githubusercontent.com/65617964/213411217-b9df2df7-9883-47f5-9ae5-56d164154b81.png)
 
